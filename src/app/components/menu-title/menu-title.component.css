@@ -1,0 +1,18 @@
+.menu-container{
+  color: white;
+  justify-content: center;
+
+}
+.menu-container > h1 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 100px;
+  font-weight: bold;
+  font-family:'Times New Roman', Times, serif;
+  display: flex;
+  justify-content: center;
+}
+.menu-container > hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
