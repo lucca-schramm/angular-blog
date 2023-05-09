@@ -9,3 +9,9 @@ header{
   display: flex;
   justify-content: center;
 }
+.articles-title > h3{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  font-size: 30px;
+}

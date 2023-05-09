@@ -2,7 +2,7 @@
   border: 1px solid white;
   width: 700px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   border-top: 15px;
 }
 
@@ -18,12 +18,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-
-}
+  padding-left: 5px;}
 hr{
   margin-top: 0;
   margin-bottom: 0;
 }
 h1{
-  font-size: 20px;
+  font-size: 17px;
+  text-align: center;
 }
