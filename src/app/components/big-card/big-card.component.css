@@ -1,4 +1,5 @@
 .container-big-card{
+  font-family: 'Roboto';
   border: solid white 2px;
   margin-left: 10px;
   margin-right: 5px;
@@ -23,10 +24,13 @@
 }
 .big-card-description{
   margin-top: 15px;
+  text-indent: 10px;
 }
 
-.big-card-description > p > a{
-  color: grey;
+.text-paragraph{
+  text-indent: 20px;
+  padding: 10px;
+  text-align: justify;
 }
 a{
   text-decoration: none;
