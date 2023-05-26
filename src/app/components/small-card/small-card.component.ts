@@ -14,6 +14,8 @@ export class SmallCardComponent implements OnInit{
   projectDescription:string="";
   @Input()
   projectLink:string="";
+  @Input()
+  repositoryLink:string="";
   ngOnInit(): void {
     
   }
