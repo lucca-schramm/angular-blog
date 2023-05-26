@@ -9,7 +9,7 @@ header{
   display: flex;
   justify-content: center;
 }
-.articles-title > h3{
+.articles-others > h3{
   text-align: center;
   justify-content: center;
   display: flex;
