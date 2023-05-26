@@ -12,6 +12,8 @@ export class BigCardComponent implements OnInit {
   profileText: string="";
   @Input()
   profileTitle: string="";
+  @Input()
+  skills!: string;
   ngOnInit(): void {
     
   }
